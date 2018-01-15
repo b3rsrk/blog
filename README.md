@@ -3,7 +3,7 @@ Personal blog about infosec.
 
 https://b3rsrk.sh
 
-Contributing
+## Contributing
 
 If you found some mistake, you can help by opening pull-requests.
 
