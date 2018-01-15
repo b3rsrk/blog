@@ -1,0 +1,49 @@
+title: b3rsrk
+description: "Blog"
+keywords: "security, programming, pentest, infosec, blog, web"
+url: https://b3rsrk.sh
+baseurl: null
+
+repo: https://github.com/b3rsrk/blog
+disqus_shortname: "b3rsrk-sh"
+
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 6
+paginate_path: "/page/:num/"
+comments: true
+
+source: source
+destination: ../blog-html
+
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+author:
+  name     : b3rsrk
+  job      : IT Security Enthusiast
+  bio      : "Interested in pentesting, cryptography, reverse engineering, bounty hunting and crypto investment. As a former software engineer I also enjoy programming in various languages."
+  email    : mail@till.wtf
+  url      : https://b3rsrk.sh
+  github   : https://github.com/b3rsrk
+  twitter  : https://twitter.com/b3rsrk
+  linkedin : https://linkedin.com/in/b3rsrk
+
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@b3rsrk"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
