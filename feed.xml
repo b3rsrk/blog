@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>b3rsrk</title>
+    <description>Blog</description>
+    <link>https://b3rsrk.sh/</link>
+    <atom:link href="https://b3rsrk.sh/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Jan 2018 18:26:55 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2018 18:26:55 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;This is the first post in my new blog. More will follow.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 00:00:00 +0100</pubDate>
+        <link>https://b3rsrk.sh/2018/hello-world/</link>
+        <guid isPermaLink="true">https://b3rsrk.sh/2018/hello-world/</guid>
+        
+        <category>hello world</category>
+        
+        <category>misc</category>
+        
+        
+        <category>misc</category>
+        
+      </item>
+    
+  </channel>
+</rss>
