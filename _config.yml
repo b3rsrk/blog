@@ -8,7 +8,7 @@ repo: https://github.com/b3rsrk/blog
 disqus_shortname: "b3rsrk-sh"
 
 permalink   : /:year/:title/
-markdown    : kramdown
+markdown    : redcarpet
 highlighter : pygments
 
 paginate: 6

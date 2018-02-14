@@ -3,3 +3,23 @@
 ---
 @charset "utf-8";
 @import "main";
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.post-image {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}

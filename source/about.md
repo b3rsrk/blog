@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <img style="float: left; margin-right: 25px; margin-bottom: 25px;" src="/assets/images/profile.jpg">
-I'm <strong style="background-color: #000;color: #fff;display: inline-block;padding: 0 .3em;">b3rsrk</strong>, 26 years old and live in germany. My interests are pentesting, cryptography, reverse engineering, bounty hunting and crypto investment. As a former software engineer I also enjoy programming in various languages.
+I'm <strong style="background-color: #000;color: #fff;display: inline-block;padding: 0 .3em;">b3rsrk</strong>, 27 years old and live in germany. My interests are pentesting, cryptography, reverse engineering, bounty hunting and crypto investment. As a former software engineer I also enjoy programming in various languages.
 
 <div style="clear: both;"></div>
 
